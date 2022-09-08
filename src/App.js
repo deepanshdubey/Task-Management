@@ -75,10 +75,10 @@ function App() {
                   </>)
           }}>
           </Route>
-{/* 
+
           <Route exact path="/about">
             <About />
-          </Route> */}
+          </Route>
         </Routes>
       <Footer />
       </Router>
